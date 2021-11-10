@@ -1,7 +1,7 @@
 ## Table of Contents
 * [Overview](#overview)
-* [User Installation Guide](#user-install-guide)
-* [Website Tour](#web-tour)
+* [User Installation Guide](#user-installation-guide)
+* [Website Tour](#website-tour)
 
 
 ## Overview
